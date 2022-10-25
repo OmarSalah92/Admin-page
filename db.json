@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "name": "chipsy",
+      "price": "",
+      "items": "",
+      "id": 1
+    },
+    {
+      "name": "molto",
+      "price": "150",
+      "items": "800",
+      "id": 2
+    },
+    {
+      "name": "sagayer",
+      "price": "300",
+      "items": "2000",
+      "id": 3
+    },
+    {
+      "name": "Red-Bull",
+      "price": "200",
+      "items": "300",
+      "id": 4
+    }
+  ]
+}
